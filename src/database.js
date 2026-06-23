@@ -1,0 +1,2 @@
+const supabaseUrl = 'https://rwhbremnxjboznwlfhmx.supabase.co';
+const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJ3aGJyZW1ueGpib3pud2xmaG14Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODIyMzE4MzIsImV4cCI6MjA5NzgwNzgzMn0.3GswPyvldxR-ukr1pZEgQbF3KSsH5SCQKlWmApGEGpA';
